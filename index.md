@@ -32,6 +32,7 @@ Birdperson is very wise, having experienced so much about the universe with his 
 ## Relationships
 
 ### [[Rick Sanchez]]
+<img src="images/rick.png" alt="hi" class="inline"/>
 Birdperson and Rick are life long friends, having done lots of things together. Birdperson attended Rick's party in the episode [[Ricksy Business]]. He showed concern for Rick's well being, telling Morty that "Wubba Lubba Dub Dub" means "I am in great pain, please help me." He invited Rick to his wedding in the episode [[The Wedding Squanchers]]. In the same episode, Rick was shown to be very torn apart, when he saw Birdperson die.
 ### [[Morty Smith]]
 Birdperson and Morty are fond acquaintances of each other. Birdperson explained Rick's catchphrase to Morty in the episode [[Ricksy Business]], and offered him his advice. He also nursed Morty back to health when he found him wounded in the episode [[Get Schwifty]]. In that same episode, Birdperson also serves as a form of guidance for Morty, bestowing a lot of wisdom on him and explaining to him why he should consider putting his faith in Rick Sanchez.
